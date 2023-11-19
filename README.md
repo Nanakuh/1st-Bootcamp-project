@@ -2,7 +2,7 @@
 
 This project is the final evaluation of Module 1 of the course at [Adalab](https://adalab.es/). It consists of a web application that you can find hosted on GitHub Pages at the following address:
 
-👉 [https://beta.adalab.es/modulo-1-evaluacion-final-Nanakuh/](https://beta.adalab.es/modulo-1-evaluacion-final-Nanakuh/)
+👉 [https://nanakuh.github.io/1st-Bootcamp-project](https://nanakuh.github.io/1st-Bootcamp-project)
 
 
 ## How to Use
